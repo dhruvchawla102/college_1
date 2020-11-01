@@ -55,7 +55,7 @@ function HeroSection({
                   </Button>
                 </Link>
                 
-                : <Link to='/college_2/'>
+                : <Link to='/college_1/'>
                       <Button buttonSize='btn--wide' buttonColor='blue'>
                         {buttonLabel}
                       </Button>
